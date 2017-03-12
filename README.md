@@ -1,15 +1,10 @@
 # Poopy-Projects
 This is where I store mini Raspberry Pi projects, codes, and circuit layouts.
 
-## Table of Content
-
-* [Basketball Counter]
-* [3 LEDs and Buttons] (https://github.com/tintinp/Poopy-Projects#3-leds-and-buttons)
-
-___
-
 ## [UPCOMING] Basketball Counter
+Do you like basketball arcade game? Do you want a basket that counts your score?
 
+> Yes...but its coming soon!
 
 Equipment Waitinglist
 - [ ] IR Break Beam Sensor
