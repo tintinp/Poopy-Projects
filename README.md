@@ -1,7 +1,7 @@
 # Poopy-Projects
 This is where I store mini Raspberry Pi projects, codes, and circuit layouts.
 
-## [UPCOMING] Basketball Counter
+## [UPCOMING] Basketball Counter :basketball:
 Do you like basketball arcade game? Do you want a basket that counts your score?
 
 > Yes...but its coming soon!
@@ -9,7 +9,7 @@ Do you like basketball arcade game? Do you want a basket that counts your score?
 #### Equipment Waiting list
 - [ ] IR Break Beam Sensor
 
-## 3 LEDs and Buttons
+## 3 LEDs and Buttons :traffic_light:
 This is my first Raspberry Pi project ever!. There three buttons (green, red, and yellow) and each of the button will light up the LED of its color when pressed. There is actually one more button (white) that will quit the program when pressed.
 Here's the [link to the code!] (https://github.com/tintinp/Poopy-Projects/blob/master/Poopy_3_Lights.py) :poop:
 
