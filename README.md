@@ -6,7 +6,7 @@ Do you like basketball arcade game? Do you want a basket that counts your score?
 
 > Yes...but its coming soon!
 
-Equipment Waitinglist
+#### Equipment Waiting list
 - [ ] IR Break Beam Sensor
 
 ## 3 LEDs and Buttons
