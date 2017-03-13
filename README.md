@@ -10,7 +10,7 @@ Do you like basketball arcade game? Do you want a basket that counts your score?
 - [ ] IR Break Beam Sensor
 
 ## 3 LEDs and Buttons :traffic_light:
-This is my first Raspberry Pi project ever!. There three buttons (green, red, and yellow) and each of the button will light up the LED of its color when pressed. There is actually one more button (white) that will quit the program when pressed.
+This is my first Raspberry Pi project ever!. There three buttons (green, red, and yellow) and each of the button will light up the LED of its color when pressed. There is actually one more button (white) that will quit the program when pressed. I used [pull up resistors] (https://www.raspberrypi.org/learning/physical-computing-guide/pull_up_down/) as a measure of high (when button is pressed) and low (when not pressed) voltage.
 Here's the [link to the code!] (https://github.com/tintinp/Poopy-Projects/blob/master/Poopy_3_Lights.py) :poop:
 
 Here's my circuit layout. :point_down:
