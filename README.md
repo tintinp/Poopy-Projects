@@ -14,5 +14,4 @@ This is my first Raspberry Pi project ever!. There three buttons (green, red, an
 Here's the [link to the code!] (https://github.com/tintinp/Poopy-Projects/blob/master/Poopy_3_Lights.py) :poop:
 
 Here's my circuit layout. :point_down:
-![Image of Poopy 3 Lights]
-(https://github.com/tintinp/Poopy-Projects/blob/master/3%20LEDs%20Buttons%20Circuit_bb.png)
+![Image of Poopy 3 Lights](https://github.com/tintinp/Poopy-Projects/blob/master/3%20LEDs%20Buttons%20Circuit_bb.png)
